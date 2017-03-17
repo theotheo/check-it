@@ -1,5 +1,5 @@
 # Deep Dostojewsky
-Speak like Fedor Michailowitsch
+Speak like Fedor Michailowitsch.
 
 ##
 Just
